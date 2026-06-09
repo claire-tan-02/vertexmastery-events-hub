@@ -1,3 +1,20 @@
 {
-  "events": []
+  "events": [
+    {
+      "id": "event-1780997161966",
+      "name": "Founder Business",
+      "highlight": "Boardroom",
+      "date": "2026-05-22",
+      "displayDate": "22 May 2026 — Friday",
+      "time": "10:00 AM - 5:00 PM",
+      "venue": "Menara Ecoworld, KL",
+      "status": "past",
+      "factsheetUrl": "https://boardroom-factsheet.vercel.app/",
+      "cmsUrl": "v/cms.html",
+      "githubRepo": "",
+      "vercelProject": "boardroom-factsheet",
+      "notes": "",
+      "createdAt": "2026-06-09"
+    }
+  ]
 }
